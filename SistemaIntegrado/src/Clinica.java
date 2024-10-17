@@ -203,7 +203,7 @@ public class Clinica {
                     break;
 
                 case 6:
-                    continuar = false;
+                    IntegracaoDosSistemas.main(new String[]{});
                     break;
 
                 default:

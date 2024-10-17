@@ -109,7 +109,7 @@ public class GerenciarEvento {
                     break;
 
                 case 7:
-                    continuar = false;
+                    IntegracaoDosSistemas.main(new String[]{});
                     break;
 
                 default:

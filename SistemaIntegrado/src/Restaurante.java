@@ -116,8 +116,7 @@ public class Restaurante {
                     break;
 
                 case 6:
-                    continuar = false;
-                    System.out.println("Saindo do sistema...");
+                    IntegracaoDosSistemas.main(new String[]{});
                     break;
 
                 default:
