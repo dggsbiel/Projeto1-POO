@@ -24,7 +24,7 @@ public class Restaurante {
             System.out.println("   Sistema de Gerenciamento de Pizzaria   ");
             System.out.println("=====================================================");
             System.out.println("1. Registrar Pedido");
-            System.out.println("2. Remover Item do Pedido");
+            System.out.println("2. Cancelar Item do Pedido");
             System.out.println("3. Fechar Conta");
             System.out.println("4. Verificar Mesas Disponíveis");
             System.out.println("5. Ver Histórico de Pedidos por Mesa");

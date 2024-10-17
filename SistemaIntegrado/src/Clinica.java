@@ -45,7 +45,7 @@ public class Clinica {
             System.out.println("2. Agendar Consulta");
             System.out.println("3. Buscar Paciente");
             System.out.println("4. Gerar Relatório de Consultas");
-            System.out.println("5. Excluir Consulta");
+            System.out.println("5. Cancelar Consulta");
             System.out.println("6. Sair");
             System.out.println("=================================================");
             System.out.print("Escolha uma opção: ");
